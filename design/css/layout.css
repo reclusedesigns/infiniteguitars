@@ -1,0 +1,36 @@
+/* chin isnt even scarrd of th codse */
+
+/* overall hacks */
+/* ------------------------------------------------------------------------------------------------- */
+.icon{background-image:none !important;} /* remove bootstrap icons */
+i{padding-top:0px; position: relative; top:2px}
+::selection {background: #3d74ad; color:#3d74ad;  /* Safari */}
+::-moz-selection {background: #3d74ad; color:#fff; /* Firefox */}
+
+
+
+/* bootstrap haxx */
+
+
+/* typography */
+h1{text-transform: uppercase; font-weight: bold; font-size:38px; text-shadow: 0 2px 2px rgba(0,0,0,0.4); color:#fff; }
+
+
+/* buttons */
+.button{border:none; background:#e13636; border-radius: 3px;}
+
+
+/* landing */
+/* ------------------------------------------------------------------------------------------------- */
+.hero{background:url(../images/home/hero_backer.jpg) center no-repeat; background-size:cover; width:100%; padding:90px 0;}
+.hero h2{font-size:18px; font-weight: bold; color:#fff;}
+
+/* form  home search*/
+.home_search{background:rgba(0,0,0,0.5); border-radius: 3px; padding:10px;}
+.home_search input{margin-right:5px; margin-bottom:0; height:30px;}
+.home_search .what{width:365px; background:url(../images/home/search.png) 10px center no-repeat #fff; text-indent:20px;}
+.home_search .type{background:url(../images/home/rows.png) 10px center no-repeat #fff;}
+.home_search .where{background:url(../images/home/globe.png) 10px center no-repeat #fff;}
+.home_search .type,
+.home_search .where{width:190px; text-indent:25px;}
+.home_search button{padding:9px 30px; background:url(../images/buttons/home_action.jpg) repeat-x; border:1px solid #677594;}
