@@ -15,10 +15,12 @@
 	<link rel="stylesheet" href="design/vendor/bootstrap/css/bootstrap.css" type="text/css" media="screen" charset="utf-8">
 	<link rel="stylesheet" href="design/vendor/ss-social/ss-social-circle.css" type="text/css" media="screen" charset="utf-8">
 	<link rel="stylesheet" href="design/vendor/ss-standard/ss-standard.css" type="text/css" media="screen" charset="utf-8">
+	<link rel="stylesheet" href="design/vendor/animate/animate.css" type="text/css" media="screen" />
 	
 	
 	<!-- muay styles -->
 	<link rel="stylesheet" href="design/css/layout.css" type="text/css" media="screen" charset="utf-8">
+	<link rel="stylesheet" href="design/css/cards.css" type="text/css" media="screen" />
 
 
 	
@@ -31,7 +33,9 @@
 	<script src="design/scripts/toys.js" type="text/javascript" charset="utf-8"></script>
 	
 	<!-- google fonts -->
-<link href='http://fonts.googleapis.com/css?family=Raleway:400,500,700|Bree+Serif|Open+Sans:400,800' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Lato:400,900|Roboto:400,300,700,500italic' rel='stylesheet' type='text/css'>
+
+
 
 
 	
@@ -42,7 +46,7 @@
 	<div class="navbar navbar-static-top">
 		<div class="navbar-inner">
 			<div class="container">
-				<a class="brand" href="#">Infinite Guitars</a>
+				<a class="brand" href="index.php"><img src="design/images/header/logo.png" alt="logo" width="133" height="45"></a>
 		  	<ul class="nav pull-right">
 		  		<li><a href="#">Sign in</a></li>
 		  		<li><a href="#">Register</a></li>
