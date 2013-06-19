@@ -8,7 +8,7 @@
 			<input class="what" type="text" placeholder="What guitar are you looking for?">
 			<input class="type" type="text" placeholder="All categories">
 			<input class="where" type="text" placeholder="All countries">
-			<button class="button" type="submit">Search</button>
+			<button class="button button_alt" type="submit">Search</button>
 		</form>
 	</div>
 </div>
@@ -16,7 +16,6 @@
 <div class="wrapper">
 	<div class="container">
 		<div class="row">
-			
 			<div class="span3">
 				<ul class="filter unstyled">
 					<li class="heading">Guitars</li>
@@ -90,119 +89,109 @@
 			</div>
 			
 			<div class="span9">
-				<div id="wrapper">
-					<div id="columns">
-						<div class="card">
-							<a href="#"><img src="design/images/elements/cards/placeholder1.jpg" alt="placeholder1"  /></a>
-							<div class="info">
-								<h4 class="title"><a href="#">For show only</a></h4>
-								<img class="flag" src="design/images/elements/cards/flag.jpg" alt="flag" width="16" height="11" />
-								<p>Washburn H320</p>
-							</div>
-						</div> <!-- card -->
-						<div class="card">
-							<a href="#"><img src="design/images/elements/cards/placeholder5.jpg" alt="placeholder1"  /></a>
-							<div class="info">
-								<h4 class="title"><a href="#">$2800</a></h4>
-								<img class="flag" src="design/images/elements/cards/flag.jpg" alt="flag" width="16" height="11" />
-								<p>'01 Roland-ready Fender Stratocaster</p>
-							</div>
-						</div> <!-- card -->
-						<div class="card">
-							<a href="#"><img src="design/images/elements/cards/placeholder3.jpg" alt="placeholder1"  /></a>
-							<div class="info">
-								<h4 class="title"><a href="#">For show only</a></h4>
-								<img class="flag" src="design/images/elements/cards/flag.jpg" alt="flag" width="16" height="11" />
-								<p>Squier Strat Fender Electric
-Guitar</p>
-							</div>
-						</div> <!-- card -->
-						<div class="card">
-							<a href="#"><img src="design/images/elements/cards/placeholder4.jpg" alt="placeholder1"  /></a>
-							<div class="info">
-								<h4 class="title"><a href="#">$5384y</a></h4>
-								<img class="flag" src="design/images/elements/cards/flag.jpg" alt="flag" width="16" height="11" />
-								<p>Squier Strat Fender Electric Guitar</p>
-							</div>
-						</div> <!-- card -->
-						<div class="card">
-							<a href="#"><img src="design/images/elements/cards/placeholder5.jpg" alt="placeholder1"  /></a>
-							<div class="info">
-								<h4 class="title"><a href="#">For show only</a></h4>
-								<img class="flag" src="design/images/elements/cards/flag.jpg" alt="flag" width="16" height="11" />
-								<p>Washburn H320</p>
-							</div>
-						</div> <!-- card -->
-						<div class="card">
-							<a href="#"><img src="design/images/elements/cards/placeholder1.jpg" alt="placeholder1"  /></a>
-							<div class="info">
-								<h4 class="title"><a href="#">For show only</a></h4>
-								<img class="flag" src="design/images/elements/cards/flag.jpg" alt="flag" width="16" height="11" />
-								<p>Washburn H320</p>
-							</div>
-						</div> <!-- card -->
-						<div class="card">
-							<a href="#"><img src="design/images/elements/cards/placeholder4.jpg" alt="placeholder1"  /></a>
-							<div class="info">
-								<h4 class="title"><a href="#">For show only</a></h4>
-								<img class="flag" src="design/images/elements/cards/flag.jpg" alt="flag" width="16" height="11" />
-								<p>Washburn H320</p>
-							</div>
-						</div> <!-- card -->
-						<div class="card">
-							<a href="#"><img src="design/images/elements/cards/placeholder1.jpg" alt="placeholder1"  /></a>
-							<div class="info">
-								<h4 class="title"><a href="#">For show only</a></h4>
-								<img class="flag" src="design/images/elements/cards/flag.jpg" alt="flag" width="16" height="11" />
-								<p>Washburn H320</p>
-							</div>
-						</div> <!-- card -->
-						<div class="card">
-							<a href="#"><img src="design/images/elements/cards/placeholder2.jpg" alt="placeholder1"  /></a>
-							<div class="info">
-								<h4 class="title"><a href="#">$2800</a></h4>
-								<img class="flag" src="design/images/elements/cards/flag.jpg" alt="flag" width="16" height="11" />
-								<p>'01 Roland-ready Fender Stratocaster</p>
-							</div>
-						</div> <!-- card -->
-						<div class="card">
-							<a href="#"><img src="design/images/elements/cards/placeholder3.jpg" alt="placeholder1"  /></a>
-							<div class="info">
-								<h4 class="title"><a href="#">For show only</a></h4>
-								<img class="flag" src="design/images/elements/cards/flag.jpg" alt="flag" width="16" height="11" />
-								<p>Squier Strat Fender Electric
-Guitar</p>
-							</div>
-						</div> <!-- card -->
-						<div class="card">
-							<a href="#"><img src="design/images/elements/cards/placeholder4.jpg" alt="placeholder1"  /></a>
-							<div class="info">
-								<h4 class="title"><a href="#">$5384y</a></h4>
-								<img class="flag" src="design/images/elements/cards/flag.jpg" alt="flag" width="16" height="11" />
-								<p>Squier Strat Fender Electric Guitar</p>
-							</div>
-						</div> <!-- card -->
-						<div class="card">
-							<a href="#"><img src="design/images/elements/cards/placeholder5.jpg" alt="placeholder1"  /></a>
-							<div class="info">
-								<h4 class="title"><a href="#">For show only</a></h4>
-								<img class="flag" src="design/images/elements/cards/flag.jpg" alt="flag" width="16" height="11" />
-								<p>Washburn H320</p>
-							</div>
-						</div> <!-- card -->
-						<div class="card">
-							<a href="#"><img src="design/images/elements/cards/placeholder1.jpg" alt="placeholder1"  /></a>
-							<div class="info">
-								<h4 class="title"><a href="#">For show only</a></h4>
-								<img class="flag" src="design/images/elements/cards/flag.jpg" alt="flag" width="16" height="11" />
-								<p>Washburn H320</p>
-							</div>
-						</div> <!-- card -->
-
-					</div>
+				<div id="card_container">
+					<div class="card">
+						<a href="item.php"><img src="design/images/elements/cards/placeholder1.jpg" alt="placeholder1"  /></a>
+						<div class="info">
+							<h4 class="title"><a href="item.php">For show only</a></h4>
+							<img class="flag" src="design/images/elements/cards/flag.jpg" alt="flag" width="16" height="11" />
+							<p>Washburn H320</p>
+						</div>
+					</div> <!-- card -->
+					<div class="card">
+						<a href="item.php"><img src="design/images/elements/cards/placeholder1.jpg" alt="placeholder1"  /></a>
+						<div class="info">
+							<h4 class="title"><a href="item.php">For show only</a></h4>
+							<img class="flag" src="design/images/elements/cards/flag.jpg" alt="flag" width="16" height="11" />
+							<p>Washburn H320</p>
+						</div>
+					</div> <!-- card -->
+					<div class="card">
+						<a href="item.php"><img src="design/images/elements/cards/placeholder3.jpg" alt="placeholder1"  /></a>
+						<div class="info">
+							<h4 class="title"><a href="item.php">For show only</a></h4>
+							<img class="flag" src="design/images/elements/cards/flag.jpg" alt="flag" width="16" height="11" />
+							<p>Squier Strat Fender Electric
+	Guitar</p>
+						</div>
+					</div> <!-- card -->
+					<div class="card">
+						<a href="item.php"><img src="design/images/elements/cards/placeholder5.jpg" alt="placeholder1"  /></a>
+						<div class="info">
+							<h4 class="title"><a href="item.php">$2800</a></h4>
+							<img class="flag" src="design/images/elements/cards/flag.jpg" alt="flag" width="16" height="11" />
+							<p>'01 Roland-ready Fender Stratocaster</p>
+						</div>
+					</div> <!-- card -->
+					<div class="card">
+						<a href="item.php"><img src="design/images/elements/cards/placeholder1.jpg" alt="placeholder1"  /></a>
+						<div class="info">
+							<h4 class="title"><a href="item.php">For show only</a></h4>
+							<img class="flag" src="design/images/elements/cards/flag.jpg" alt="flag" width="16" height="11" />
+							<p>Washburn H320</p>
+						</div>
+					</div> <!-- card -->
+					<div class="card">
+						<a href="item.php"><img src="design/images/elements/cards/placeholder3.jpg" alt="placeholder1"  /></a>
+						<div class="info">
+							<h4 class="title"><a href="item.php">For show only</a></h4>
+							<img class="flag" src="design/images/elements/cards/flag.jpg" alt="flag" width="16" height="11" />
+							<p>Squier Strat Fender Electric
+	Guitar</p>
+						</div>
+					</div> <!-- card -->
+					<div class="card">
+						<a href="item.php"><img src="design/images/elements/cards/placeholder5.jpg" alt="placeholder1"  /></a>
+						<div class="info">
+							<h4 class="title"><a href="item.php">$2800</a></h4>
+							<img class="flag" src="design/images/elements/cards/flag.jpg" alt="flag" width="16" height="11" />
+							<p>'01 Roland-ready Fender Stratocaster</p>
+						</div>
+					</div> <!-- card -->
+					<div class="card">
+						<a href="item.php"><img src="design/images/elements/cards/placeholder1.jpg" alt="placeholder1"  /></a>
+						<div class="info">
+							<h4 class="title"><a href="item.php">For show only</a></h4>
+							<img class="flag" src="design/images/elements/cards/flag.jpg" alt="flag" width="16" height="11" />
+							<p>Washburn H320</p>
+						</div>
+					</div> <!-- card -->
+					<div class="card">
+						<a href="item.php"><img src="design/images/elements/cards/placeholder3.jpg" alt="placeholder1"  /></a>
+						<div class="info">
+							<h4 class="title"><a href="item.php">For show only</a></h4>
+							<img class="flag" src="design/images/elements/cards/flag.jpg" alt="flag" width="16" height="11" />
+							<p>Squier Strat Fender Electric
+	Guitar</p>
+						</div>
+					</div> <!-- card -->
+					<div class="card">
+						<a href="item.php"><img src="design/images/elements/cards/placeholder5.jpg" alt="placeholder1"  /></a>
+						<div class="info">
+							<h4 class="title"><a href="item.php">$2800</a></h4>
+							<img class="flag" src="design/images/elements/cards/flag.jpg" alt="flag" width="16" height="11" />
+							<p>'01 Roland-ready Fender Stratocaster</p>
+						</div>
+					</div> <!-- card -->
+					<div class="card">
+						<a href="item.php"><img src="design/images/elements/cards/placeholder1.jpg" alt="placeholder1"  /></a>
+						<div class="info">
+							<h4 class="title"><a href="item.php">For show only</a></h4>
+							<img class="flag" src="design/images/elements/cards/flag.jpg" alt="flag" width="16" height="11" />
+							<p>Washburn H320</p>
+						</div>
+					</div> <!-- card -->
+					<div class="card">
+						<a href="item.php"><img src="design/images/elements/cards/placeholder3.jpg" alt="placeholder1"  /></a>
+						<div class="info">
+							<h4 class="title"><a href="item.php">For show only</a></h4>
+							<img class="flag" src="design/images/elements/cards/flag.jpg" alt="flag" width="16" height="11" />
+							<p>Squier Strat Fender Electric
+	Guitar</p>
+						</div>
+					</div> <!-- card -->
 				</div>
-				
-			
+			</div> <!-- span9 -->
 		</div> <!-- row -->
 	</div>
 </div>
