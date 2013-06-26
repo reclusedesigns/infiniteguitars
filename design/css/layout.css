@@ -52,7 +52,7 @@ button{border:none;}
 .search .type{background:url(../images/home/rows.png) 10px center no-repeat #fff;}
 .search .where{background:url(../images/home/globe.png) 10px center no-repeat #fff;}
 .search .type,
-.search .where{width:190px; text-indent:25px;}
+.search .where{width:205px; text-indent:17px; padding:9px 20px 9px 0; margin-right:5px; height:40px; position: relative; top:5px;}
 .search .button{padding:9px 26px;}
 
 /*  home search*/

@@ -7,7 +7,7 @@
 			<input class="what" type="text" placeholder="What guitar are you looking for?">
 			<input class="type" type="text" placeholder="All categories">
 			<input class="where" type="text" placeholder="All countries">
-			<button class="button" type="submit">Search</button>
+			<button class="button button_alt" type="submit">Search</button>
 		</form>
 		
 		<div class="row">

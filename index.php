@@ -6,8 +6,22 @@
 		<h2 id="two" class="animated fadeInDown">Sell guitars and accessories &middot; Showcase your collection</h2>
 		<form id="three" class="inline search home_search animated fadeInDown">
 			<input class="what" type="text" placeholder="What guitar are you looking for?">
-			<input class="type" type="text" placeholder="All categories">
-			<input class="where" type="text" placeholder="All countries">
+			<select class="type">
+				<option>&nbsp;</option>
+				<option>1</option>
+				<option>2</option>
+				<option>3</option>
+				<option>4</option>
+				<option>5</option>
+			</select>
+			<select class="where">
+				<option>&nbsp;</option>
+				<option>1</option>
+				<option>2</option>
+				<option>3</option>
+				<option>4</option>
+				<option>5</option>
+			</select>
 			<button class="button button_alt" type="submit">Search</button>
 		</form>
 	</div>
